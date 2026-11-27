@@ -1,0 +1,27 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="Texture2D" path="res://Tearscity/images/monsters/huskdandy.png" id="1_body"]
+
+[node name="HuskDandyVisuals" type="Node2D"]
+
+[node name="Visuals" type="Sprite2D" parent="."]
+unique_name_in_owner = true
+position = Vector2(0, -110.0)
+scale = Vector2(1.043, 1.043)
+texture = ExtResource("1_body")
+
+[node name="Bounds" type="Control" parent="."]
+unique_name_in_owner = true
+offset_left = -54.4
+offset_top = -228.0
+offset_right = 54.4
+offset_bottom = 10.0
+mouse_filter = 2
+
+[node name="CenterPos" type="Marker2D" parent="."]
+unique_name_in_owner = true
+position = Vector2(0, -110.0)
+
+[node name="IntentPos" type="Marker2D" parent="."]
+unique_name_in_owner = true
+position = Vector2(0, -273.0)

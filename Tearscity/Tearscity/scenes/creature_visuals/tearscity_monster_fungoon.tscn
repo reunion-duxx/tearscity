@@ -1,0 +1,27 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="Texture2D" path="res://Tearscity/images/monsters/fungal_fungoon.png" id="1_body"]
+
+[node name="FungoonVisuals" type="Node2D"]
+
+[node name="Visuals" type="Sprite2D" parent="."]
+unique_name_in_owner = true
+position = Vector2(0, -192.5)
+scale = Vector2(1.6187, 1.6187)
+texture = ExtResource("1_body")
+
+[node name="Bounds" type="Control" parent="."]
+unique_name_in_owner = true
+offset_left = -93.08
+offset_top = -305.0
+offset_right = 93.08
+offset_bottom = -80
+mouse_filter = 2
+
+[node name="CenterPos" type="Marker2D" parent="."]
+unique_name_in_owner = true
+position = Vector2(0, -192.5)
+
+[node name="IntentPos" type="Marker2D" parent="."]
+unique_name_in_owner = true
+position = Vector2(0, -349.0)

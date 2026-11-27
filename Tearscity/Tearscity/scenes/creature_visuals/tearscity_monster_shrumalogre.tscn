@@ -1,0 +1,27 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="Texture2D" path="res://Tearscity/images/monsters/fungal_shrumalogre.png" id="1_body"]
+
+[node name="ShrumalOgreVisuals" type="Node2D"]
+
+[node name="Visuals" type="Sprite2D" parent="."]
+unique_name_in_owner = true
+position = Vector2(0, -175.0)
+scale = Vector2(1.2027, 1.2027)
+texture = ExtResource("1_body")
+
+[node name="Bounds" type="Control" parent="."]
+unique_name_in_owner = true
+offset_left = -201.46
+offset_top = -350.0
+offset_right = 201.46
+offset_bottom = 0
+mouse_filter = 2
+
+[node name="CenterPos" type="Marker2D" parent="."]
+unique_name_in_owner = true
+position = Vector2(0, -175.0)
+
+[node name="IntentPos" type="Marker2D" parent="."]
+unique_name_in_owner = true
+position = Vector2(0, -394.0)

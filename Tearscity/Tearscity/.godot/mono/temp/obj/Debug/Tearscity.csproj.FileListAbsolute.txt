@@ -1,0 +1,12 @@
+C:\Users\ASUS\Desktop\sts2mod(2)\Tearscity\Tearscity\.godot\mono\temp\bin\Debug\Tearscity.deps.json
+C:\Users\ASUS\Desktop\sts2mod(2)\Tearscity\Tearscity\.godot\mono\temp\bin\Debug\Tearscity.dll
+C:\Users\ASUS\Desktop\sts2mod(2)\Tearscity\Tearscity\.godot\mono\temp\bin\Debug\Tearscity.pdb
+C:\Users\ASUS\Desktop\sts2mod(2)\Tearscity\Tearscity\.godot\mono\temp\obj\Debug\Tearscity.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\sts2mod(2)\Tearscity\Tearscity\.godot\mono\temp\obj\Debug\Tearscity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\sts2mod(2)\Tearscity\Tearscity\.godot\mono\temp\obj\Debug\Tearscity.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\sts2mod(2)\Tearscity\Tearscity\.godot\mono\temp\obj\Debug\Tearscity.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\sts2mod(2)\Tearscity\Tearscity\.godot\mono\temp\obj\Debug\Tearscity.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\sts2mod(2)\Tearscity\Tearscity\.godot\mono\temp\obj\Debug\Tearscity.dll
+C:\Users\ASUS\Desktop\sts2mod(2)\Tearscity\Tearscity\.godot\mono\temp\obj\Debug\refint\Tearscity.dll
+C:\Users\ASUS\Desktop\sts2mod(2)\Tearscity\Tearscity\.godot\mono\temp\obj\Debug\Tearscity.pdb
+C:\Users\ASUS\Desktop\sts2mod(2)\Tearscity\Tearscity\.godot\mono\temp\obj\Debug\ref\Tearscity.dll

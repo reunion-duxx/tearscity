@@ -1,0 +1,27 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="Texture2D" path="res://Tearscity/images/monsters/xh_infectedblob.png" id="1_body"]
+
+[node name="InfectedBlobVisuals" type="Node2D"]
+
+[node name="Visuals" type="Sprite2D" parent="."]
+unique_name_in_owner = true
+position = Vector2(0, -80.0)
+scale = Vector2(1.2308, 1.2308)
+texture = ExtResource("1_body")
+
+[node name="Bounds" type="Control" parent="."]
+unique_name_in_owner = true
+offset_left = -78.77
+offset_top = -160.0
+offset_right = 78.77
+offset_bottom = 0
+mouse_filter = 2
+
+[node name="CenterPos" type="Marker2D" parent="."]
+unique_name_in_owner = true
+position = Vector2(0, -80.0)
+
+[node name="IntentPos" type="Marker2D" parent="."]
+unique_name_in_owner = true
+position = Vector2(0, -204.0)

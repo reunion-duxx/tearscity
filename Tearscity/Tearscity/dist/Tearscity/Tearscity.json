@@ -1,0 +1,17 @@
+{
+  "id": "Tearscity",
+  "name": "泪水之城",
+  "author": "duxx",
+  "description": "把第一幕换成《空洞骑士》的「泪水之城」，第二幕换成「真菌荒地」：第一幕 17 种敌人 / 22 个遭遇 / 3 个 Boss / 13 个事件；第二幕 10 种敌人 / 17 个自建遭遇 + 3 个原版 Boss。全中文。",
+  "version": "0.1.0",
+  "min_game_version": "0.111.0",
+  "has_pck": true,
+  "has_dll": true,
+  "dependencies": [
+    {
+      "id": "STS2-RitsuLib",
+      "min_version": "0.6.13"
+    }
+  ],
+  "affects_gameplay": true
+}

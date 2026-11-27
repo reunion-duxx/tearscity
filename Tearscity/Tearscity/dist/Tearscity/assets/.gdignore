@@ -1,0 +1,3 @@
+# 这个目录是给 Godot 忽略的：assets/ 里放的是音频等「运行时从磁盘直接读」的文件，
+# 不需要 Godot 导入，也不应该被打进 pck（否则体积翻倍）。
+# 构建时由 Tearscity.csproj 直接复制到 dist\Tearscity\assets\。

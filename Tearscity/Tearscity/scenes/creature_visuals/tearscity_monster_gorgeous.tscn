@@ -1,0 +1,29 @@
+[gd_scene load_steps=2 format=3 uid="uid://cg3rvdqto22w3"]
+
+[ext_resource type="Texture2D" uid="uid://d0vu78ued1fbh" path="res://Tearscity/images/monsters/gorgeoushusk.png" id="1_body"]
+
+[node name="GorgeousVisuals" type="Node2D"]
+
+[node name="Visuals" type="Sprite2D" parent="."]
+unique_name_in_owner = true
+position = Vector2(0, -150)
+scale = Vector2(1.282, 1.282)
+texture = ExtResource("1_body")
+
+[node name="Bounds" type="Control" parent="."]
+unique_name_in_owner = true
+layout_mode = 3
+anchors_preset = 0
+offset_left = -125.3
+offset_top = -308.0
+offset_right = 125.3
+offset_bottom = 10.0
+mouse_filter = 2
+
+[node name="CenterPos" type="Marker2D" parent="."]
+unique_name_in_owner = true
+position = Vector2(0, -150)
+
+[node name="IntentPos" type="Marker2D" parent="."]
+unique_name_in_owner = true
+position = Vector2(0, -353)
